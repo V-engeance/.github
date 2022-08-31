@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/never-mind-who/imageVengeance/master/logo2.png" height="400px" length="400px">
 
-👋 ・**Hi, welcome to Vengeance!**
+👋 ・**Welcome to Vengeance!**
   
   ✔️・**Latest open source project - **
   
